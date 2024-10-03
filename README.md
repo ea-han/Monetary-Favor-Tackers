@@ -4,6 +4,9 @@ Bounty Hunter is the ultimate app for tracking favors and settling debts among f
 
 Create Bounties, assign them to friends, request payments and settle transactions.
 
+
+- Imported from GitLab
+
 ## Getting Started
 
 ### Installing
