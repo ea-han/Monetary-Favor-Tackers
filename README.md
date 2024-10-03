@@ -17,7 +17,7 @@ Miranda Meng
 Migelangel Carillo
 
 Ethan Han
-[@ea-han](github.com/ea-han)
+[@ea-han](http://github.com/ea-han)
 
 Eve Nguyen
 
